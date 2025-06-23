@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy jose2p
 
-<!--
-**jose2p/jose2p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desarrollador apasionado por la tecnología y la innovación.
+- 🛠️ Interesado en proyectos de código abierto y colaboración.
+- 📚 Siempre aprendiendo nuevas tecnologías y herramientas.
+
+## 📫 Cómo contactarme
+
+- Email: tu-email@ejemplo.com
+- Twitter: [@tuusuario](https://twitter.com/tuusuario)
+- LinkedIn: [Tu Perfil](https://linkedin.com/in/tuusuario)
+
+## 📂 Repositorios destacados
+
+- [Nombre del repositorio 1](https://github.com/jose2p/repositorio1): Breve descripción.
+- [Nombre del repositorio 2](https://github.com/jose2p/repositorio2): Breve descripción.
+
+---
+
+¡Gracias por visitar mi perfil!
